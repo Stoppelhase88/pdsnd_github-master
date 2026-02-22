@@ -10,7 +10,6 @@ This repository is my practice version of the Udacity final project from *Introd
 https://github.com/Stoppelhase88/pdsnd_github-master/
   ├─ data/
   │   └─ sample_prompt.txt
-  │   └─ new_york_city.csv
   ├─ documentation/      # project documentation
   │   └─ Git_Commands_Documentation.md
   │   └─ git_commands_cocumentation.pdf   # Submission-Document (filled Udacity template)
@@ -77,3 +76,4 @@ Work through the files in the 'tasks/' folder in order. Each task describes **co
 MIT – see `LICENSE`.
 
 ---
+
