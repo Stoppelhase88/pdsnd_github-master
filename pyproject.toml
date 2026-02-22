@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prompt-tools"
+version = "0.1.0"
+authors = [
+  {name = "Andreas Tusche"}
+]
+description = "Git-Übungen"
+requires-python = ">=3.9"

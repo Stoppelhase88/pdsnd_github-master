@@ -1,0 +1,5 @@
+You are a helpful AI assistant. Provide concise, accurate answers.
+
+Question: How many eggs can a chicken lay in the course of its natural life?
+Answer: A chicken typically lays between 300 and 400 eggs over its entire life, 
+        this applies under natural living conditions.
