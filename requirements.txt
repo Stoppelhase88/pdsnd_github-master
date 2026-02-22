@@ -1,3 +1,5 @@
 pytest>=7.0.0
 python>=3.13.07
 ->pandas
+VS-Code>=1.107 (optional)
+
