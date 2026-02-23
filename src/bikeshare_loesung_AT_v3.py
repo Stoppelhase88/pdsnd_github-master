@@ -1,4 +1,4 @@
-## Udacity projekt "Introduction to Python" - Andreas Tusche
+## Udacity projekt "Introduction to Python" - Andreas Tusche -> here used for version control learning
 
 import os
 import time
