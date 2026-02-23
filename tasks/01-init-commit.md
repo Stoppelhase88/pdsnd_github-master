@@ -6,7 +6,7 @@
    ```bash
    git init -b main
    git add .
-   git commit -m "chore: initial project scaffold"
+   git commit -m "clone: initial project pdsnd_github-master"
    ```
 2. GitHub-Remote anlegen und pushen:
    ```bash
@@ -16,3 +16,4 @@
    git push -u origin main
    ```
 3. CI checken: In GitHub unter **Actions** prüfen, ob die Tests laufen.
+
