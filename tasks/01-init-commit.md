@@ -16,5 +16,3 @@
    git push -u origin main
    ```
 3. CI checken: In GitHub unter **Actions** prüfen, ob die Tests laufen.
-
-
