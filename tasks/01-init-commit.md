@@ -6,13 +6,15 @@
    ```bash
    git init -b main
    git add .
-   git commit -m "chore: initial project scaffold"
+   git commit -m "clone: initial project pdsnd_github-master"
    ```
 2. GitHub-Remote anlegen und pushen:
    ```bash
    gh repo create {project_name} --public --source=. --remote=origin --push
    # oder manuell im Browser anlegen und dann
-   git remote add origin git@github.com:Stoppelhase88/GitHub_Projekte.git
+   git remote add origin git@github.com:Stoppelhase88/pdsnd_github-master.git
    git push -u origin main
    ```
 3. CI checken: In GitHub unter **Actions** prüfen, ob die Tests laufen.
+
+
