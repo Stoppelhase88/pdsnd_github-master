@@ -12,7 +12,8 @@
    ```bash
    gh repo create {project_name} --public --source=. --remote=origin --push
    # oder manuell im Browser anlegen und dann
-   git remote add origin git@github.com:Stoppelhase88/GitHub_Projekte.git
+   git remote add origin git@github.com:Stoppelhase88/pdsnd_github-master.git
    git push -u origin main
    ```
 3. CI checken: In GitHub unter **Actions** prüfen, ob die Tests laufen.
+
