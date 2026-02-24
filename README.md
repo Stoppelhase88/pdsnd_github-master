@@ -10,10 +10,11 @@ This repository is my practice version of the Udacity final project from *Introd
 https://github.com/Stoppelhase88/pdsnd_github-master/
   ├─ data/
   │   └─ sample_prompt.txt
-  │   └─ dummy.csv
+  │   └─ emptyfile.txt
   ├─ documentation/      # project documentation
   │   └─ Git_Commands_Documentation.md
   │   └─ git_commands_cocumentation.pdf   # Submission-Document (filled Udacity template)
+  │   └─ Git Commit Message Style Guide.docx
   ├─ src/bikeshare_loesung_AT_v3py
   ├─ src/prompt_tools/
   │   ├─ __init__.py
@@ -77,4 +78,5 @@ Work through the files in the 'tasks/' folder in order. Each task describes **co
 MIT – see `LICENSE`.
 
 ---
+
 
